@@ -1,4 +1,4 @@
-module go_test
+module github.com/Konyee11/go-gin-docker
 
 go 1.17
 
